@@ -1,0 +1,19 @@
+ body, header{
+   margin: 0;
+}
+
+header {
+    background-color: #ffebcd;
+}
+
+nav {
+    background-color: rgb(73, 47, 28);
+    height: 50px;
+}
+a{
+  color: white;  
+}
+
+h2 {
+    margin: 0;
+}
